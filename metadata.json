@@ -1,0 +1,6 @@
+{
+  "name": "Bellissima Fashion",
+  "description": "An elegant, interactive fashion store featuring handcrafted luxury collections, an advanced filterable catalog, a detailed product view with style pairings, voucher reductions, a secure checkout flow, and custom order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
